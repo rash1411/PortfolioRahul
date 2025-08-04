@@ -8,7 +8,7 @@ interface Testimonial {
 const testimonials: Testimonial[] = [
   {
     name: "Rahul Kumar Mishra",
-    message: "This is my own testimonial. Only I can remove or edit this in the code!",
+    message: " Hello everyone! I am Rahul Kumar Mishra, a passionate web developer with a keen interest in creating dynamic and responsive web applications. My journey in web development has been fueled by a love for coding and a desire to build innovative solutions that enhance user experiences. I am always eager to learn new technologies and improve my skills, striving to stay at the forefront of the ever-evolving web development landscape.",
   },
   // Add more testimonials here if you want
 ];
