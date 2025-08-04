@@ -27,6 +27,7 @@ import {
   Target,
   Layers
 } from 'lucide-react';
+import Testimonials from "./components/Testimonials";
 
 function App() {
   const [activeSection, setActiveSection] = useState('home');
@@ -267,9 +268,11 @@ function App() {
             <div className="mb-12">
               <div className="relative inline-block mb-8">
                 <div className="w-40 h-40 mx-auto bg-gradient-to-br from-blue-500 via-purple-500 to-teal-500 rounded-full p-1 animate-pulse">
-                  <div className="w-full h-full bg-black rounded-full flex items-center justify-center text-white text-5xl font-bold">
-                    RKM
-                  </div>
+                  <img
+                    src="/Rahul.jpg"
+                    alt="Rahul Kumar Mishra"
+                    className="w-full h-full object-cover rounded-full"
+                  />
                 </div>
                 <div className="absolute -top-2 -right-2 w-8 h-8 bg-gradient-to-r from-yellow-400 to-orange-500 rounded-full flex items-center justify-center animate-bounce">
                   <Sparkles size={16} className="text-white" />
@@ -674,6 +677,7 @@ function App() {
           <ArrowUp size={20} />
         </button>
       )}
+      <Testimonials />
     </div>
   );
 }
