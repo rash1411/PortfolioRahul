@@ -323,7 +323,7 @@ function App() {
               <a href="https://www.linkedin.com/in/rahul-mishra-398890227/" className="group p-4 bg-white/5 backdrop-blur-sm rounded-full border border-white/10 hover:bg-white/10 hover:border-blue-500/50 transition-all duration-300 transform hover:scale-110">
                 <Linkedin size={24} className="text-gray-300 group-hover:text-blue-400 transition-colors" />
               </a>
-              <a href="#" className="group p-4 bg-white/5 backdrop-blur-sm rounded-full border border-white/10 hover:bg-white/10 hover:border-purple-500/50 transition-all duration-300 transform hover:scale-110">
+              <a href="https://github.com/rash1411" className="group p-4 bg-white/5 backdrop-blur-sm rounded-full border border-white/10 hover:bg-white/10 hover:border-purple-500/50 transition-all duration-300 transform hover:scale-110">
                 <Github size={24} className="text-gray-300 group-hover:text-purple-400 transition-colors" />
               </a>
             </div>
@@ -627,10 +627,10 @@ function App() {
                 </div>
                 <h3 className="text-xl font-bold text-white mb-6">Social Links</h3>
                 <div className="flex justify-center gap-4">
-                  <a href="#" className="p-3 bg-white/10 backdrop-blur-sm rounded-full border border-white/20 hover:bg-white/20 hover:border-blue-500/50 transition-all duration-300 transform hover:scale-110">
+                  <a href="https://www.linkedin.com/in/rahul-mishra-398890227/" className="p-3 bg-white/10 backdrop-blur-sm rounded-full border border-white/20 hover:bg-white/20 hover:border-blue-500/50 transition-all duration-300 transform hover:scale-110">
                     <Linkedin size={20} className="text-gray-300 hover:text-blue-400 transition-colors" />
                   </a>
-                  <a href="#" className="p-3 bg-white/10 backdrop-blur-sm rounded-full border border-white/20 hover:bg-white/20 hover:border-purple-500/50 transition-all duration-300 transform hover:scale-110">
+                  <a href="https://github.com/rash1411" className="p-3 bg-white/10 backdrop-blur-sm rounded-full border border-white/20 hover:bg-white/20 hover:border-purple-500/50 transition-all duration-300 transform hover:scale-110">
                     <Github size={20} className="text-gray-300 hover:text-purple-400 transition-colors" />
                   </a>
                 </div>
@@ -651,10 +651,10 @@ function App() {
               Full-Stack Developer • UI/UX Designer • Data Scientist
             </p>
             <div className="flex justify-center gap-6 mb-8">
-              <a href="#" className="p-3 bg-white/5 backdrop-blur-sm rounded-full border border-white/10 hover:bg-white/10 hover:border-blue-500/50 transition-all duration-300 transform hover:scale-110">
+              <a href="https://www.linkedin.com/in/rahul-mishra-398890227/" className="p-3 bg-white/5 backdrop-blur-sm rounded-full border border-white/10 hover:bg-white/10 hover:border-blue-500/50 transition-all duration-300 transform hover:scale-110">
                 <Linkedin size={20} className="text-gray-400 hover:text-blue-400 transition-colors" />
               </a>
-              <a href="#" className="p-3 bg-white/5 backdrop-blur-sm rounded-full border border-white/10 hover:bg-white/10 hover:border-purple-500/50 transition-all duration-300 transform hover:scale-110">
+              <a href="https://github.com/rash1411" className="p-3 bg-white/5 backdrop-blur-sm rounded-full border border-white/10 hover:bg-white/10 hover:border-purple-500/50 transition-all duration-300 transform hover:scale-110">
                 <Github size={20} className="text-gray-400 hover:text-purple-400 transition-colors" />
               </a>
               <a href="mailto:mishrakrahul2003@gmail.com" className="p-3 bg-white/5 backdrop-blur-sm rounded-full border border-white/10 hover:bg-white/10 hover:border-green-500/50 transition-all duration-300 transform hover:scale-110">
