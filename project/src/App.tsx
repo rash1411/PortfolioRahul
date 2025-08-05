@@ -320,7 +320,7 @@ function App() {
             </div>
 
             <div className="flex justify-center gap-8">
-              <a href="#" className="group p-4 bg-white/5 backdrop-blur-sm rounded-full border border-white/10 hover:bg-white/10 hover:border-blue-500/50 transition-all duration-300 transform hover:scale-110">
+              <a href="https://www.linkedin.com/in/rahul-mishra-398890227/" className="group p-4 bg-white/5 backdrop-blur-sm rounded-full border border-white/10 hover:bg-white/10 hover:border-blue-500/50 transition-all duration-300 transform hover:scale-110">
                 <Linkedin size={24} className="text-gray-300 group-hover:text-blue-400 transition-colors" />
               </a>
               <a href="#" className="group p-4 bg-white/5 backdrop-blur-sm rounded-full border border-white/10 hover:bg-white/10 hover:border-purple-500/50 transition-all duration-300 transform hover:scale-110">
